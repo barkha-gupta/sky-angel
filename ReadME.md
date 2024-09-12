@@ -79,5 +79,7 @@ The backend server will start on the port you specified in the .env file.
 - Collect Parachutes and Stars: Increase your fuel by collecting parachutes (+10 points). Collect stars to increase your score (+1 point).
 - Pause/Resume: Use the "Pause" button or press the "Space" bar to pause/resume the game.
 
+- Check out the **Demo** of the game here: https://jam.dev/c/3de5149b-21e2-49ba-aa5f-670d7521510c
+
 ### Enjoy the game and have fun!
 
