@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://sky-angel-backend.vercel.app/api";
 export const saveGame = async (playerName, score, time) => {
   try {
     const response = await fetch(`${API_URL}/game/save`, {
